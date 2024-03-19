@@ -514,7 +514,7 @@
 	<aside>
 		<h1><span>Contact us</span></h1>
 		<div>
-			<p align="center">Email :- arekbrian6@gmail.com || Web :- www.bluebird.com || Phone :- +254 748821539 </p>
+			<p align="center">Email :- arekbrian6@gmail.com || Web :- http://localhost/BluebirdHotel || Phone :- +254 748821539 </p>
 		</div>
 	</aside>
 

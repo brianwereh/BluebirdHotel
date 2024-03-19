@@ -47,7 +47,8 @@ CREATE TABLE `emp_login` (
 --
 
 INSERT INTO `emp_login` (`empid`, `Emp_Email`, `Emp_Password`) VALUES
-(1, 'Admin@gmail.com', '12345');
+(1, 'Admin@gmail.com', '12345'),
+(10, 'brian@gmail.com', 'brian');
 
 -- --------------------------------------------------------
 
